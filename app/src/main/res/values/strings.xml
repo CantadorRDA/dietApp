@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">DietApp</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="graph">График</string>
+    <string name="fridge">Холодильник</string>
+    <string name="history">История</string>
+    <string name="articles">Статьи</string>
+    <string name="chat">Чат</string>
+
+    <string name="today">Сегодня\nкг</string>
+    <string name="past_day">N month\nкг</string>
+
+    <string name="day">День</string>
+    <string name="week">Неделя</string>
+    <string name="month">Месяц</string>
+
+    <string name="kg">кг</string>
+    <string name="upload">Загрузка</string>
+    <string name="error_upload">Ошибка загрузки</string>
+    <string name="progress">Загружено</string>
+
+    <string name="exit">Выйти</string>
+    <string name="exit_message">Желаете закрыть приложение?</string>
+</resources>

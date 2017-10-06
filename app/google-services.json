@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "624621606030",
+    "firebase_url": "https://dietapp-c6d7d.firebaseio.com",
+    "project_id": "dietapp-c6d7d",
+    "storage_bucket": "dietapp-c6d7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624621606030:android:cc3dbc62f6458627",
+        "android_client_info": {
+          "package_name": "co.tink.diet.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624621606030-oe8tg0sv9re6hdr3b3dfp82er68c333q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmPRDI3Q7zwDR3s0DDr7JAMonhwjDkONQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

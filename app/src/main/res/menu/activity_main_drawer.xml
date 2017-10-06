@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_graph"
+            android:icon="@drawable/ic_timeline_black_24dp"
+            android:title="@string/graph"/>
+        <item
+            android:id="@+id/nav_fridge"
+            android:icon="@drawable/ic_stay_primary_portrait_black_24dp"
+            android:title="@string/fridge"/>
+        <item
+            android:id="@+id/nav_history"
+            android:icon="@drawable/ic_history_black_24dp"
+            android:title="@string/history"/>
+        <item
+            android:id="@+id/nav_articles"
+            android:icon="@drawable/ic_format_list_bulleted_black_24dp"
+            android:title="@string/articles"/>
+        <item
+            android:id="@+id/nav_chat"
+            android:icon="@drawable/ic_chat_black_24dp"
+            android:title="@string/chat"/>
+    </group>
+
+    <item android:title="">
+        <menu>
+            <item
+                android:id="@+id/nav_exit"
+                android:icon="@drawable/ic_exit_to_app_black_24dp"
+                android:title="@string/exit"/>
+        </menu>
+    </item>
+
+</menu>
